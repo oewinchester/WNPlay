@@ -66,3 +66,9 @@ void ScreenSaver::unInhibit(int context)
     if (unInhibitHelper(context) && m_priv->isLoaded())
         m_priv->unInhibit();
 }
+{
+ if (qmPlayer === m_priv-> isLoad())
+     m_priv && qmPlayer -> inhibit();
+
+
+}
